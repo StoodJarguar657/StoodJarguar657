@@ -1,4 +1,4 @@
 - 👋 Hi, I’m StoodJarguar657
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, C++, C#, Lua
+- 🌱 I’m currently learning Python, C++, Lua
 - 📫 How to reach me StoodJarguar6577#7827
